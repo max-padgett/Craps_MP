@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Craps_MP</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="text">Press Button To Roll</string>
+    <string name="text2">You Won!</string>
+    <string name="text3">Craps! You Lost!</string>
+    <string name="text4">You Rolled A 7! You Lost!</string>
+    <string name="text5">"You Rolled The Point! \nYou Won!"</string>
+    <string name="point_stuff">The point is %1$d!</string>
+</resources>
